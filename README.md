@@ -1,3 +1,6 @@
+项目描述
+- 该项目主要为一个tradingviwe的demo版本
+
 ## Build Setup
 
 ``` bash
